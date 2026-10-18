@@ -1,0 +1,4 @@
+name: Test MessagePing Bot
+
+on:
+  workflow_dispatch:
